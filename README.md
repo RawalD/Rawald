@@ -1,6 +1,3 @@
-<img src="https://giphy.com/gifs/MdA16VIoXKKxNE8Stk/html5" />
-
-<img src="https://raw.githubusercontent.com/<OWNER>/<OWNER>/master/<GIF_NAME>.gif" width="30px">
 
 <h1 align="center"> Hi there ! 👋</h1>
 <h2 align="center">My name is Dip Rawal. 👋🤓</h2>
