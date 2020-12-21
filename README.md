@@ -14,8 +14,8 @@ More advanced Flask, Django and PostgresSql
 Anything for animal welfare
 
 - 📫 How to reach me: 
-<p mailto='diprawal@hotmail.com'>Email</p>
-<a href='https://www.linkedin.com/in/dip-rawal-35b9a160/'>LinkedIn</a>
+--> <a href='mailto:diprawal@hotmail.com'>Email</a>
+--> <a href='https://www.linkedin.com/in/dip-rawal-35b9a160/'>LinkedIn</a>
 
 
 - ⚡ Fun fact: Bob's Burgers fans: TINA WAS SUPPOSED TO BE A BOY!
