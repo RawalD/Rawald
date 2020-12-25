@@ -5,7 +5,8 @@
 
 
 - 🌱 I’m currently learning ...
-More advanced Flask, Django and PostgresSql
+Kotlin and its use cases , perhaps Android or Spring
+More advanced Flask, Django and PostgresSql 
 
 - 👯 I’m looking to collaborate on ...
 Anything for animal welfare
