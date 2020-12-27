@@ -10,7 +10,7 @@
 - 👉 I'll be looking to add..
 <p>Docker and Kubernates</p>
 <p>CI / CD</p>
-<p>Travis CI, and AWS</p>
+<p>Travis CI and AWS</p>
 <br>
 - 👯 I’m looking to collaborate on ...
 <p>Anything for animal welfare<p>
