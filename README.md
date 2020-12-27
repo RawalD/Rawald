@@ -1,4 +1,4 @@
-<body>
+<<body>
 <h1 align="center"> Hi there ! 👋</h1>
 <h2 align="center">My name is Dip Rawal. 👋🤓</h2>
 <p align="center">I'm a software developer and mentor. I'm a big fan of backend development however I've worked on full stack most of the time. I love JavaScript and Python as my key langauges while I'm busy adding Kotlin as well as I see these languages as having the most growth and flexibilty. I love animals, watching the good ol TV and just sitting on 9gag when I'm not in the trenches of codewar 3.</p>
@@ -7,6 +7,12 @@
 - 🌱 I’m currently learning ...
 <p>Kotlin and its use cases , perhaps Android or Spring</p>
 <p>More advanced Flask, Django and PostgresSql </p>
+
+- 👉 I'll be looking to add..
+<p>Docker and Kubernates</p>
+<p>CI / CD</p>
+<p>Travis CI, and AWS</p>
+
 
 - 👯 I’m looking to collaborate on ...
 <p>Anything for animal welfare<p>
