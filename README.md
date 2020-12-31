@@ -22,7 +22,7 @@
 - ⚡ Fun fact: 
 <p>Bob's Burgers fans: TINA WAS SUPPOSED TO BE A BOY!<p>
 
-- :books: I'm currently reading:
+-:books: I'm currently reading:
 <p>The Decision Book</p>
 
 </body>
