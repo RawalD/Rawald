@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning ...
 <p>Kotlin and its use cases , perhaps Android or Spring</p>
 <p>More advanced Flask, Django and PostgresSql </p>
-<p>Some Angular into the fray</p>
+<p>Advancing my NodeJs and React skillset</p>
 <br>
 - 👉 I'll be looking to add..
 <p>CI / CD</p>
